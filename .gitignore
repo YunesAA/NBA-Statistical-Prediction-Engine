@@ -1,0 +1,10 @@
+/.vs
+__pycache__/
+*.pyc
+.pytest_cache/
+text files/
+rf_hyperparameter_tuning.py
+rf_best_features.csv
+rf_tuning_results.csv
+test.py
+project-group-141.pyproj
